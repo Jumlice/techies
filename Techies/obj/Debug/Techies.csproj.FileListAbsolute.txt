@@ -1,0 +1,10 @@
+F:\курсач\Techies\bin\Debug\Techies.exe.config
+F:\курсач\Techies\bin\Debug\Techies.exe
+F:\курсач\Techies\bin\Debug\Techies.pdb
+F:\курсач\Techies\obj\Debug\Techies.csproj.AssemblyReference.cache
+F:\курсач\Techies\obj\Debug\Techies.csproj.SuggestedBindingRedirects.cache
+F:\курсач\Techies\obj\Debug\Techies.Properties.Resources.resources
+F:\курсач\Techies\obj\Debug\Techies.csproj.GenerateResource.cache
+F:\курсач\Techies\obj\Debug\Techies.csproj.CoreCompileInputs.cache
+F:\курсач\Techies\obj\Debug\Techies.exe
+F:\курсач\Techies\obj\Debug\Techies.pdb
